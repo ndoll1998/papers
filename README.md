@@ -4,8 +4,7 @@
 
 ### optimization
 
- - [ ] [Tensor Programs V: Tuning Large Neural Networks via Zero-Shot Hyperparameter Transfe](https://arxiv.org/pdf/2203.03466.pdf)
- - [ ] [Training Compute-Optimal Large Language Models](https://arxiv.org/pdf/2203.15556.pdf)
+ - [ ] [Tensor Programs V: Tuning Large Neural Networks via Zero-Shot Hyperparameter Transfer](https://arxiv.org/pdf/2203.03466.pdf)
  - [ ] [ZeRO: Memory Optimizations Toward Training Trillion Parameter Models](https://arxiv.org/abs/1910.02054)
 
 ### transformers / LLMs
