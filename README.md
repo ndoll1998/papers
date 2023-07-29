@@ -2,7 +2,7 @@
 
 ## machine learning
 
- - [ ] [“Low-Resource” Text Classification: A Parameter-Free Classification Method with Compressors](https://aclanthology.org/2023.findings-acl.426/)
+ - [x] [“Low-Resource” Text Classification: A Parameter-Free Classification Method with Compressors](https://aclanthology.org/2023.findings-acl.426/)
  - [ ] [Ml-knn: A Lazy Learning Approach to Multi-Label Learning](https://cs.nju.edu.cn/zhouzh/zhouzh.files/publication/pr07.pdf)
 
 ### optimization
