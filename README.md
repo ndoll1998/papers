@@ -2,6 +2,8 @@
 
 ## machine learning
 
+ - [ ] [“Low-Resource” Text Classification: A Parameter-Free Classification Method with Compressors](https://aclanthology.org/2023.findings-acl.426/)
+
 ### optimization
 
  - [ ] [Tensor Programs V: Tuning Large Neural Networks via Zero-Shot Hyperparameter Transfer](https://arxiv.org/pdf/2203.03466.pdf)
@@ -48,6 +50,7 @@
  - [ ] [Full Parameter Fine-Tuning for Large Language Models with Limited Resources](https://arxiv.org/pdf/2306.09782.pdf)
  - [ ] [Delta Tuning: A Comprehensive Study of Parameter Efficient Methods for Pre-trained Language Models](https://arxiv.org/abs/2203.06904)
  - [ ] [Large Language Models Can Self-Improve](https://arxiv.org/abs/2210.11610)
+ - [ ] [How Many Data Points is a Prompt Worth?](https://arxiv.org/abs/2103.08493)
 
 #### adapters
 
