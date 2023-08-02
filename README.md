@@ -18,7 +18,6 @@
  - [ ] [GPT2: Language Models are Unsupervised Multitask Learners](https://d4mucfpksywv.cloudfront.net/better-language-models/language-models.pdf)
  - [ ] [Llama 2: Open Foundation and Fine-Tuned Chat Models](https://scontent-fra3-1.xx.fbcdn.net/v/t39.2365-6/10000000_662098952474184_2584067087619170692_n.pdf?_nc_cat=105&ccb=1-7&_nc_sid=3c67a6&_nc_ohc=qhK-ahCbkBMAX-aOz9J&_nc_ht=scontent-fra3-1.xx&oh=00_AfDLDaEewnAZWDbP-GGxfz1KwBfX25hMX_2MD2KcOLZmow&oe=64BE66FF)
  - [ ] [Toolformer: Language Models Can Teach Themselves to Use Tools](https://arxiv.org/abs/2302.04761)
- - [ ] [Examining Scaling and Transfer of Language Model Architectures for Machine Translation](https://arxiv.org/abs/2202.00528)
 
 #### surveys
   
@@ -31,6 +30,7 @@
 
  - [ ] [Training Compute-Optimal Large Language Models](https://arxiv.org/abs/2203.15556)
  - [ ] [Scaling Laws for BERT in Low-Resource Settings](https://aclanthology.org/2023.findings-acl.492.pdf)
+ - [ ] [Examining Scaling and Transfer of Language Model Architectures for Machine Translation](https://arxiv.org/abs/2202.00528)
 
 #### embeddings
 
