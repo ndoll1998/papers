@@ -53,6 +53,7 @@
  - [ ] [Delta Tuning: A Comprehensive Study of Parameter Efficient Methods for Pre-trained Language Models](https://arxiv.org/abs/2203.06904)
  - [ ] [Large Language Models Can Self-Improve](https://arxiv.org/abs/2210.11610)
  - [ ] [How Many Data Points is a Prompt Worth?](https://arxiv.org/abs/2103.08493)
+ - [ ] [LIMA: Less Is More for Alignment](https://arxiv.org/pdf/2305.11206.pdf)
 
 #### adapters
 
