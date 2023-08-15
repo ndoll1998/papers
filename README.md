@@ -46,7 +46,7 @@
  - [ ] [Fast Transformer Decoding: One Write-Head is All You Need](https://arxiv.org/abs/1911.02150)
  - [ ] [GQA: Training Generalized Multi-Query Transformer Models from Multi-Head Checkpoints](https://arxiv.org/abs/2305.13245)
 
-#### fine-tuning
+#### training / fine-tuning
 
  - [ ] [Fine-Tuning Language Models with Just Forward Passes](https://arxiv.org/pdf/2305.17333.pdf)
  - [ ] [Full Parameter Fine-Tuning for Large Language Models with Limited Resources](https://arxiv.org/pdf/2306.09782.pdf)
@@ -54,6 +54,7 @@
  - [ ] [Large Language Models Can Self-Improve](https://arxiv.org/abs/2210.11610)
  - [ ] [How Many Data Points is a Prompt Worth?](https://arxiv.org/abs/2103.08493)
  - [ ] [LIMA: Less Is More for Alignment](https://arxiv.org/pdf/2305.11206.pdf)
+ - [ ] [Stack More Layers Differently: High-Rank Training Through Low-Rank Updates](https://arxiv.org/abs/2307.05695)
 
 #### adapters
 
