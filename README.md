@@ -31,6 +31,7 @@
  - [ ] [Training Compute-Optimal Large Language Models](https://arxiv.org/abs/2203.15556)
  - [ ] [Scaling Laws for BERT in Low-Resource Settings](https://aclanthology.org/2023.findings-acl.492.pdf)
  - [ ] [Examining Scaling and Transfer of Language Model Architectures for Machine Translation](https://arxiv.org/abs/2202.00528)
+ - [ ] [The Depth-to-Width Interplay in Self-Attention](https://arxiv.org/abs/2006.12467)
 
 #### embeddings
 
